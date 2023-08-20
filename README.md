@@ -1,2 +1,2 @@
-# Tipos de lista
- Atividade introdução a desenvolvimento web
+# Repositório para postar as atividades
+ introdução a desenvolvimento web
